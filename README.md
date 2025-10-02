@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=1000&pause=500&color=56F77F&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=180&lines=masungmin.dev;Web+service+engineer;Thanks+for+visiting" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=1000&pause=500&color=0DCA44FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=180&lines=masungmin.dev;Web+service+engineer;Thanks+for+visiting" alt="Typing SVG" />
 
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masungmin-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masungmin-dev&layout=compact&theme=default&hide_border=true&langs_count=8)
 
 </div>
 
